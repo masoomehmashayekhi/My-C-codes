@@ -1,0 +1,6 @@
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Layers\TinyGeekGame.L1.Models\bin\Debug\TinyGeekGame.L1.Models.dll
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Layers\TinyGeekGame.L1.Models\bin\Debug\TinyGeekGame.L1.Models.pdb
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Layers\TinyGeekGame.L1.Models\obj\Debug\TinyGeekGame.L1.Models.csprojAssemblyReference.cache
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Layers\TinyGeekGame.L1.Models\obj\Debug\TinyGeekGame.L1.Models.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Layers\TinyGeekGame.L1.Models\obj\Debug\TinyGeekGame.L1.Models.dll
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Layers\TinyGeekGame.L1.Models\obj\Debug\TinyGeekGame.L1.Models.pdb

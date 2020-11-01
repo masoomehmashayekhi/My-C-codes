@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layers", "Layers", "{1A227D6A-3CCE-4A4C-9266-E9518BE957A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{570AF41C-5001-41FB-B8A4-8AF8796D68CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sahred", "Sahred", "{59F9CF89-A70B-4D0F-AA47-D7F0868708CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyGeekGame", "Presentation\TinyGeekGame\TinyGeekGame.csproj", "{D5BB6C8E-0A6B-4655-9FF3-89B1D6C88A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyGeekGame.L1.Models", "Layers\TinyGeekGame.L1.Models\TinyGeekGame.L1.Models.csproj", "{86866981-F2C4-4D79-BFB3-6A6E60C2FCF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5BB6C8E-0A6B-4655-9FF3-89B1D6C88A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BB6C8E-0A6B-4655-9FF3-89B1D6C88A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BB6C8E-0A6B-4655-9FF3-89B1D6C88A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BB6C8E-0A6B-4655-9FF3-89B1D6C88A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86866981-F2C4-4D79-BFB3-6A6E60C2FCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86866981-F2C4-4D79-BFB3-6A6E60C2FCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86866981-F2C4-4D79-BFB3-6A6E60C2FCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86866981-F2C4-4D79-BFB3-6A6E60C2FCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D5BB6C8E-0A6B-4655-9FF3-89B1D6C88A7B} = {570AF41C-5001-41FB-B8A4-8AF8796D68CC}
+		{86866981-F2C4-4D79-BFB3-6A6E60C2FCF5} = {1A227D6A-3CCE-4A4C-9266-E9518BE957A8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B25EEF8C-8088-4CA5-A858-B7871CB5491C}
+	EndGlobalSection
+EndGlobal

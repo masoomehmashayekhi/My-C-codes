@@ -1,0 +1,49 @@
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\bin\Debug\TinyGeekGame.exe.config
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\bin\Debug\TinyGeekGame.exe
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\bin\Debug\TinyGeekGame.pdb
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\TinyGeekGame.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\TinyGeekGame_MarkupCompile.cache
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\TinyGeekGame_MarkupCompile.lref
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\TinyGeekGame.g.resources
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\TinyGeekGame.Properties.Resources.resources
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\TinyGeekGame.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\TinyGeekGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\TinyGeekGame.exe
+C:\Users\Admin\source\repos\TinyGeekGame\TinyGeekGame\obj\Debug\TinyGeekGame.pdb
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\bin\Debug\TinyGeekGame.exe.config
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\bin\Debug\TinyGeekGame.exe
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\bin\Debug\TinyGeekGame.pdb
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame_MarkupCompile.cache
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame_MarkupCompile.lref
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.g.resources
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.Properties.Resources.resources
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.exe
+C:\Users\Admin\source\repos\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.pdb
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.csprojAssemblyReference.cache
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\MainWindow.g.cs
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\App.g.cs
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame_MarkupCompile.cache
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame_MarkupCompile.lref
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.exe
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.pdb
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\bin\Debug\TinyGeekGame.exe.config
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\bin\Debug\TinyGeekGame.exe
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\bin\Debug\TinyGeekGame.pdb
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\MainWindow.baml
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.g.resources
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.Properties.Resources.resources
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.csproj.GenerateResource.cache
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\bin\Debug\TinyGeekGame.L1.Models.dll
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\bin\Debug\TinyGeekGame.L1.Models.pdb
+C:\Users\Inspiron 5584\Downloads\TinyGeekGame\TinyGeekGame\Presentation\TinyGeekGame\obj\Debug\TinyGeekGame.csproj.CopyComplete
